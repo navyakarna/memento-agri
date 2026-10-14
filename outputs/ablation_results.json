@@ -1,0 +1,11 @@
+{
+  "experiment": "ablation",
+  "dataset_rows": 50765,
+  "baseline": {
+    "mean_risk": 0.04677262270715017
+  },
+  "memento": {
+    "memory_available": true,
+    "average_retrieved_cases": 4.0
+  }
+}

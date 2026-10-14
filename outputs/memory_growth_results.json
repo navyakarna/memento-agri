@@ -1,0 +1,32 @@
+[
+  {
+    "memory_size": 100,
+    "dataset_rows": 100,
+    "retriever_available": true,
+    "retrieved_cases": 80
+  },
+  {
+    "memory_size": 500,
+    "dataset_rows": 500,
+    "retriever_available": true,
+    "retrieved_cases": 80
+  },
+  {
+    "memory_size": 1000,
+    "dataset_rows": 1000,
+    "retriever_available": true,
+    "retrieved_cases": 80
+  },
+  {
+    "memory_size": 2500,
+    "dataset_rows": 2500,
+    "retriever_available": true,
+    "retrieved_cases": 80
+  },
+  {
+    "memory_size": 5000,
+    "dataset_rows": 5000,
+    "retriever_available": true,
+    "retrieved_cases": 80
+  }
+]

@@ -1,0 +1,16 @@
+district,state,year,crop,season,crop_area,crop_production,crop_yield,rainfall,normal_rainfall,tmax,tmin,ppt,aet,pet,def,runoff,wind_speed,irrigation_percentage,soil_type
+Hisar,Haryana,2016,Wheat,Rabi,1000,3100,3.10,430,550,31.2,16.0,430,280,410,130,45,2.1,42,Sandy Loam
+Hisar,Haryana,2017,Wheat,Rabi,1000,2950,2.95,390,550,32.4,16.4,390,250,425,165,38,2.3,42,Sandy Loam
+Hisar,Haryana,2018,Wheat,Rabi,1000,3480,3.48,570,550,30.4,15.8,570,320,405,85,62,2.0,43,Sandy Loam
+Hisar,Haryana,2019,Wheat,Rabi,1000,2700,2.70,350,550,34.0,18.0,350,220,440,190,30,2.5,40,Sandy Loam
+Hisar,Haryana,2020,Wheat,Rabi,1000,3220,3.22,515,550,31.0,16.2,515,300,415,115,52,2.2,41,Sandy Loam
+Karnal,Haryana,2016,Wheat,Rabi,1200,4200,3.50,560,610,30.0,15.5,560,350,405,55,70,1.8,58,Loam
+Karnal,Haryana,2017,Wheat,Rabi,1200,4320,3.60,620,610,29.5,15.2,620,365,400,35,76,1.7,59,Loam
+Karnal,Haryana,2018,Wheat,Rabi,1200,3900,3.25,490,610,33.0,17.1,490,300,430,130,55,2.2,57,Loam
+Karnal,Haryana,2019,Wheat,Rabi,1200,4560,3.80,680,610,29.8,15.0,680,390,398,8,85,1.6,60,Loam
+Karnal,Haryana,2020,Wheat,Rabi,1200,4050,3.38,530,610,32.0,16.5,530,315,420,105,61,2.0,58,Loam
+Jaipur,Rajasthan,2016,Maize,Kharif,800,1760,2.20,410,500,34.5,23.0,410,240,520,280,20,3.1,28,Sandy
+Jaipur,Rajasthan,2017,Maize,Kharif,800,1520,1.90,350,500,35.8,23.6,350,205,535,330,16,3.4,27,Sandy
+Jaipur,Rajasthan,2018,Maize,Kharif,800,1920,2.40,520,500,33.0,22.4,520,285,500,215,31,2.8,29,Sandy
+Jaipur,Rajasthan,2019,Maize,Kharif,800,1280,1.60,290,500,37.0,24.1,290,170,555,385,10,3.8,26,Sandy
+Jaipur,Rajasthan,2020,Maize,Kharif,800,1840,2.30,480,500,34.0,22.8,480,275,510,235,28,3.0,28,Sandy

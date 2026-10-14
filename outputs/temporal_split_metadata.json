@@ -1,0 +1,13 @@
+{
+  "min_year": 1966,
+  "max_year": 2017,
+  "train_start": 1966,
+  "train_end": 2001,
+  "validation_start": 2002,
+  "validation_end": 2011,
+  "test_start": 2012,
+  "test_end": 2017,
+  "train_rows": 35143,
+  "validation_rows": 9812,
+  "test_rows": 5810
+}
